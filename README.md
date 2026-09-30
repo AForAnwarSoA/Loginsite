@@ -1,4 +1,4 @@
-Gruppemedlemmer: Anwar & Najib
+Gruppemedlemmer: Anwar, Najib, Kevin & Lucas
 
 Hvad programmet gør:
 Vores program er et simpelt login-system. Brugeren skriver sit brugernavn og sin adgangskode. 
